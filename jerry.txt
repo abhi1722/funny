@@ -1,0 +1,7 @@
+
+#include,stdio.h>
+void main(){
+cout<<hekloo world<<endl;
+return 0;
+}
+
